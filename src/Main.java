@@ -10,6 +10,12 @@ public class Main {
         System.out.println("Jazeera");
         System.out.println("Jazeera");
 
+        System.out.println("Caroline");
+
+        System.out.println("Nurhayat");
+
+
+
 
     }
 }
